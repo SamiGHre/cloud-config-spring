@@ -1,1 +1,3 @@
-awedas
+config:
+  server:
+    cloud-key: Hello world!@!
